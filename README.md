@@ -7,6 +7,8 @@ Listing of articles, code examples, libraries and talks covering specific topics
 * [Code Reading](list/code.reading.md)
 
 * JavaScript
+ * [Ebooks](list/javascript/ebooks.md)
+ * [Resources](list/javascript/resources.md)
  * [Isomorphic JavaScript](list/javascript/isomorphic.javascript.md)
  * [ES6](list/javascript/es6.md)
  * [Service Worker](list/javascript/service.worker.md)
