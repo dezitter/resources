@@ -12,3 +12,7 @@ Listing of articles, code examples, libraries and talks covering specific topics
  * [Isomorphic JavaScript](list/javascript/isomorphic.javascript.md)
  * [ES6](list/javascript/es6.md)
  * [Service Worker](list/javascript/service.worker.md)
+
+* Python
+ * [Ebooks](list/python/ebooks.md)
+ * [Resources](list/python/resources.md)
