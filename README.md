@@ -18,5 +18,5 @@ Listing of articles, code examples, libraries and talks covering specific topics
  * [Ebooks](list/python/ebooks.md)
  * [Resources](list/python/resources.md)
 
- * [Ruby](list/ruby.md)
- * [Machine Learning](list/machine.learning.md)
+* [Ruby](list/ruby.md)
+* [Machine Learning](list/machine.learning.md)

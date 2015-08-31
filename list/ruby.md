@@ -2,9 +2,9 @@
 
 ## Resources
 
-[Ruby Monk](https://rubymonk.com/)
-[Ruby Koans](http://rubykoans.com/)
-[Practicing Ruby](https://practicingruby.com/)
+* [Ruby Monk](https://rubymonk.com/)
+* [Ruby Koans](http://rubykoans.com/)
+* [Practicing Ruby](https://practicingruby.com/)
 
 ## Ebooks
 
