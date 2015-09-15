@@ -2,6 +2,7 @@
 
 ## Articles
 
+ * [ponyfoo - es6 in depth](http://ponyfoo.com/articles/tagged/es6-in-depth)
  * [2ality - esnext articles](http://www.2ality.com/search/label/esnext)
  * [Mozilla - ES6 in depth series](https://hacks.mozilla.org/category/es6-in-depth/)
 
