@@ -7,6 +7,7 @@
 ## Code examples
 
 * [Offline Wikipedia - github.com/jakearchibald](https://github.com/jakearchibald/offline-wikipedia)
+* [Offline Recipes for Service Workers](https://hacks.mozilla.org/2015/11/offline-service-workers/)
 
 ## Talks
 
