@@ -6,6 +6,7 @@ Listing of articles, code examples, libraries and talks covering specific topics
 
 * [Code Reading](list/code.reading.md)
 * [Ebooks](list/ebooks.md)
+* [Podcasts](list/podcasts.md)
 
 * JavaScript
  * [Ebooks](list/javascript/ebooks.md)
